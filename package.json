@@ -1,6 +1,6 @@
 {
-  "name": "starwars-names",
-  "version": "1.0.0",
+  "name": "@sikokimo/starwars-names",
+  "version": "1.1.0",
   "description": "random star wars names",
   "main": "src/index.js",
   "dependencies": {
@@ -19,7 +19,7 @@
     "wars",
     "names"
   ],
-  "author": "Ahmed Shokry <Ahmed.Shokry@itworx.com>",
+  "author": "Ahmed Samir <ahmdsamir91@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ahmdsamir91/starwars-names/issues"
